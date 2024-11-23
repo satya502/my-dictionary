@@ -38,9 +38,9 @@ const App = () => {
         <div className="min-h-screen flex flex-col bg-gray-900 text-gray-100">
             {/* Hero Section */}
             <header className="bg-gray-800 text-center py-12 px-4">
-                <h1 className="text-4xl font-extrabold text-blue-400">Your Dictionary!!</h1>
+                <h1 className="text-4xl font-extrabold text-blue-400">Your Dictionary👌 !!</h1>
                 <p className="text-lg mt-2 text-gray-300">
-                    Explore meanings, phonetics, and word suggestions effortlessly!
+                    Explore meanings, phonetics, and word suggestions effortlessly!!!
                 </p>
                 <div className="mt-6 flex flex-col sm:flex-row justify-center items-center gap-4">
                     <input
